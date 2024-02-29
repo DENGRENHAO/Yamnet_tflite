@@ -1,0 +1,7 @@
+argparse
+matplotlib>=3.2.1
+sounddevice>=0.4.1
+scipy>=1.7.3 # Only required for test code.
+tflite_runtime
+tflite-support>=0.4.2
+geocoder
